@@ -2395,8 +2395,8 @@ ToggleButton.BackgroundColor3 = Color3.fromRGB(30, 20, 20)
 ToggleButton.BackgroundTransparency = 1
 ToggleButton.BorderSizePixel = 0
 ToggleButton.Position = UDim2.new(0.120833337, 0, 0.0952890813, 0)
-ToggleButton.Size = UDim2.new(0, 50, 0, 50)
-ToggleButton.Image = "rbxassetid://108398807451702"
+ToggleButton.Size = UDim2.new(0, 70, 0, 70)
+ToggleButton.Image = "rbxassetid://120118935902630"
 ToggleButton.Draggable = true
 ToggleButton.MouseButton1Click:Connect(function()
 	game:GetService("VirtualInputManager"):SendKeyEvent(true, Enum.KeyCode.LeftControl, false, game)
@@ -2404,8 +2404,8 @@ ToggleButton.MouseButton1Click:Connect(function()
 end)
       --------------------------------------------------------------------------------------------------------------------------------------------
 local Window = Fluent:CreateWindow({
-	Title = "Hat snow hub | free and vip",
-	SubTitle = "by hat snow hub",
+	Title = "ViruSs hub | bạn jack-j97",
+	SubTitle = "by Hiro Kai hub",
 	TabWidth = 100,
 	Size = UDim2.fromOffset(500, 350),
 	Acrylic = true,
